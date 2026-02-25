@@ -1,0 +1,50 @@
+Variable	Description	Units
+species	Scientific name	-
+BAMM_lambda_V1	Speciation rate (mean tip speciation rate), estimated using BAMM with phylogeny V1	Branching events/My
+BAMM_lambda_V2	Speciation rate (mean tip speciation rate), estimated using BAMM with phylogeny V2	Branching events/My
+MiSSE_lambda_V1_full	Speciation rate estimated using MiSSE with phylogeny V1	Branching events/My
+MiSSE_lambda_V2_full	Speciation rate estimated using MiSSE with phylogeny V2	Branching events/My
+MiSSE_lambda_V1_pruned	Speciation rate estimated using MiSSE with phylogeny V1 with shortest branches pruned	Branching events/My
+MiSSE_lambda_V2_pruned	Speciation rate estimated using MiSSE with phylogeny V2 with shortest branches pruned	Branching events/My
+DR_lambda_V1	Speciation rate estimated using the DR statistic with phylogeny V1	Branching events/My
+DR_lambda_V2	Speciation rate estimated using the DR statistic with phylogeny V2	Branching events/My
+growth_form_binary	Growth form classified as binary (e.g. compact vs. arborescent)	-
+growth_form_detailed	Growth form classified into 9 categories (e.g. columnar, shrubby, globose (solitary), globose (clumping), arborescent, epiphytic, cushion-forming, geophytic, barrel)	-
+max_height	Maximum observed height or stem length of mature individual	cm
+pollinator_binary	Pollination mode: ancestral (bee) vs. derived (e.g. bird, bat, moth)	-
+pollinator_detailed	Pollinator syndrome: bat, bee, bird, moth, other insect	-
+chromosome_count_median	Median haploid chromosome number	n (count)
+chromosome_count_distribution	Distribution of all known counts (e.g., 11, 22, 33…)	text/list
+range_size	Geographic range size	km²
+water	Derived available soil water capacity (volumetric fraction) with FC = pF 2.0 for depth 0 cm	mm/m
+sand	Sand content (50-2000 micro meter) mass fraction in % at depth 0.00 m	
+texture	Texture class (USDA system) at depth 0.00 m	
+ai	Aridity index (precipitation / PET)	ratio
+bio1	Annual mean temperature	°C
+bio10	Mean temperature of warmest quarter	°C
+bio11	Mean temperature of coldest quarter	°C
+bio12	Annual precipitation	kg m-2 year-1
+bio13	Precipitation of wettest month	kg m-2 year-1
+bio14	Precipitation of driest month	kg m-2 year-1
+bio15	Precipitation seasonality	kg m-2
+bio16	Precipitation of wettest quarter	kg m-2 year-1
+bio17	Precipitation of driest quarter	kg m-2 year-1
+bio18	Precipitation of warmest quarter	kg m-2 year-1
+bio19	Precipitation of coldest quarter	kg m-2 year-1
+bio2	Mean diurnal temperature range	°C
+bio3	Isothermality (bio2 / bio7 * 100)	%
+bio4	Temperature seasonality	°C/100
+bio5	Max temperature of warmest month	°C
+bio6	Min temperature of coldest month	°C
+bio7	Annual temperature range (bio5 - bio6)	°C
+bio8	Mean temperature of wettest quarter	°C
+bio9	Mean temperature of driest quarter	°C
+npp	Net primary productivity	gC/m²/year
+pet	Mean monthly potential evapotranspiratio n	kg m-2 month-1
+elev	Elevation	m
+sd_elev	Standard deviation of elevation	m
+prof_curve	Profile curvature	rad m-1
+roughness	Surface roughness	m
+slope	Slope	°
+sd_slope	Standard deviation of slope	°
+tang_curve	Tangential curvature	rad m-1
