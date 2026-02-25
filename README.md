@@ -1,7 +1,8 @@
 # CactEcoDB - now accepted for publication!
 CactEcoDB: A resource of spatial, ecological, trait, phylogenetic, and diversification rate data for the cactus family (Cactaceae)
 
-CAUTION: USE THE FIGSHARE REPOSITORY UNTIL I HAVE UPDATED THE FILES FOLLOWING SEVERAL ROUNDS OF PEER REVIEW
+CAUTION: USE THE FIGSHARE REPOSITORY UNTIL I HAVE UPDATED THE FILES FOLLOWING PEER REVIEW
+
 FIGSHARE: https://figshare.com/articles/journal_contribution/CactEcoDB_Trait_spatial_environmental_phylogenetic_and_diversification_data_for_the_cactus_family/30940019
 
 Abstract:
