@@ -1,4 +1,4 @@
-# CactEcoDB - now accepted for publication!
+# CactEcoDB - now published in Nature Scientific Data! https://www.nature.com/articles/s41597-026-06936-7
 CactEcoDB: A resource of spatial, ecological, trait, phylogenetic, and diversification rate data for the cactus family (Cactaceae)
 
 We encourage and value submissions that help fill data gaps! Get in contact.
